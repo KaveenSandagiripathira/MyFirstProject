@@ -44,3 +44,4 @@ public abstract class Protagonist extends Character {
 
     public abstract void normalize();
 }
+//NEW
